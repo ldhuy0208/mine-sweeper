@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/test-deploy-react/static/css/main.e63f3011.chunk.css",
-    "main.js": "/test-deploy-react/static/js/main.e8806ea9.chunk.js",
-    "main.js.map": "/test-deploy-react/static/js/main.e8806ea9.chunk.js.map",
-    "runtime-main.js": "/test-deploy-react/static/js/runtime-main.ae5a9b03.js",
-    "runtime-main.js.map": "/test-deploy-react/static/js/runtime-main.ae5a9b03.js.map",
-    "static/js/2.618b6ab9.chunk.js": "/test-deploy-react/static/js/2.618b6ab9.chunk.js",
-    "static/js/2.618b6ab9.chunk.js.map": "/test-deploy-react/static/js/2.618b6ab9.chunk.js.map",
-    "index.html": "/test-deploy-react/index.html",
-    "precache-manifest.5ac69fca85b5c41334630d07079eba3f.js": "/test-deploy-react/precache-manifest.5ac69fca85b5c41334630d07079eba3f.js",
-    "service-worker.js": "/test-deploy-react/service-worker.js",
-    "static/css/main.e63f3011.chunk.css.map": "/test-deploy-react/static/css/main.e63f3011.chunk.css.map",
-    "static/js/2.618b6ab9.chunk.js.LICENSE.txt": "/test-deploy-react/static/js/2.618b6ab9.chunk.js.LICENSE.txt"
+    "main.css": "/mine-sweeper/static/css/main.e63f3011.chunk.css",
+    "main.js": "/mine-sweeper/static/js/main.e8806ea9.chunk.js",
+    "main.js.map": "/mine-sweeper/static/js/main.e8806ea9.chunk.js.map",
+    "runtime-main.js": "/mine-sweeper/static/js/runtime-main.6ebfd8fc.js",
+    "runtime-main.js.map": "/mine-sweeper/static/js/runtime-main.6ebfd8fc.js.map",
+    "static/js/2.618b6ab9.chunk.js": "/mine-sweeper/static/js/2.618b6ab9.chunk.js",
+    "static/js/2.618b6ab9.chunk.js.map": "/mine-sweeper/static/js/2.618b6ab9.chunk.js.map",
+    "index.html": "/mine-sweeper/index.html",
+    "precache-manifest.2aced4533b2558479ef944f9b64d9ddb.js": "/mine-sweeper/precache-manifest.2aced4533b2558479ef944f9b64d9ddb.js",
+    "service-worker.js": "/mine-sweeper/service-worker.js",
+    "static/css/main.e63f3011.chunk.css.map": "/mine-sweeper/static/css/main.e63f3011.chunk.css.map",
+    "static/js/2.618b6ab9.chunk.js.LICENSE.txt": "/mine-sweeper/static/js/2.618b6ab9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae5a9b03.js",
+    "static/js/runtime-main.6ebfd8fc.js",
     "static/js/2.618b6ab9.chunk.js",
     "static/css/main.e63f3011.chunk.css",
     "static/js/main.e8806ea9.chunk.js"
