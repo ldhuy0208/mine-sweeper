@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ldhuy0208.github.io/test-deploy-react/",
+  "homepage": "https://ldhuy0208.github.io/mine-sweeper/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
